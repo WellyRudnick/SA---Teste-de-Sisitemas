@@ -141,39 +141,4 @@ finally:
 ```
 
 ## Membros do grupo:
-## 👥 Integrantes
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/dutkabruno" target="_blank">
-        <img src="https://github.com/dutkabruno.png" width="100px"/><br/>
-        <b>@Bruno</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/luc4as-calixto" target="_blank">
-        <img src="https://github.com/luc4as-calixto.png" width="100px"/><br/>
-        <b>@Lucas</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/WellyRudnick" target="_blank">
-        <img src="https://github.com/WellyRudnick.png" width="100px"/><br/>
-        <b>@Welly</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Paulo-r-joao" target="_blank">
-        <img src="https://github.com/Paulo-r-joao.png" width="100px"/><br/>
-        <b>@Paulo</b>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/vinicius835" target="_blank">
-        <img src="https://github.com/vinicius835.png" width="100px"/><br/>
-        <b>@Vinicius.A</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<table> <tr> <td align="center"> <a href="https://github.com/dutkabruno" target="_blank"> <img src="https://github.com/dutkabruno.png" width="100px" style="border-radius:50%"/><br/> <b>@Bruno</b> </a> </td> <td align="center"> <a href="https://github.com/luc4as-calixto" target="_blank"> <img src="https://github.com/luc4as-calixto.png" width="100px" style="border-radius:50%"/><br/> <b>@Lucas</b> </a> </td> <td align="center"> <a href="https://github.com/WellyRudnick" target="_blank"> <img src="https://github.com/WellyRudnick.png" width="100px" style="border-radius:50%"/><br/> <b>@Welly</b> </a> </td> <td align="center"> <a href="https://github.com/Paulo-r-joao" target="_blank"> <img src="https://github.com/Paulo-r-joao.png" width="100px" style="border-radius:50%"/><br/> <b>@Paulo</b> </a> </td> <td align="center"> <a href="https://github.com/vinicius835" target="_blank"> <img src="https://github.com/vinicius835.png" width="100px" style="border-radius:50%"/><br/> <b>@Vinicius.A</b> </a> </td> </tr> </table>
